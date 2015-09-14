@@ -1,5 +1,5 @@
 ﻿<?php
-
+//tste
 
 ///servidor de dados
 	$servidor="127.0.0.1";
