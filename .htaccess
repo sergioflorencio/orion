@@ -1,0 +1,6 @@
+DirectoryIndex index.php
+
+Order allow,deny
+deny from 78.46.158.*
+deny from 89.111.166.*
+allow from all
